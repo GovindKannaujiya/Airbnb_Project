@@ -34,13 +34,19 @@ Correcting column names & data types
 •Price distribution
 •Room type & location-based analysis
 
+Questions
+•What is the distribution of listing prices?
+•How are different room types distributed?
+•How are listings distributed across different neighborhoods?
+•What is the relationship between price and room type?
+•How has the number of review change over with time?
 
 Visualization
 
 •Bar charts, histograms, scatter plots
 •Correlation heatmaps
 •Insights
-Identified missing values and cleaned dataset.
+•Identified missing values and cleaned dataset.
 
 Explored distribution of listings across neighborhoods.
 

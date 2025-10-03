@@ -2,12 +2,15 @@
 
 Airbnb Data Analysis Project
 
+
 This project explores and analyzes Airbnb data using Python. The goal is to clean, transform, and visualize the dataset to extract meaningful insights.
+
 
 Project Structure
 
 •Airbnb Data-Analysis Project.ipynb → Jupyter Notebook containing the full analysis.
 •Dataset (CSV/PDF) → The raw data used for analysis.
+
 
 Tools & Libraries Used
 
@@ -16,11 +19,13 @@ Tools & Libraries Used
 •numpy → Numerical operations
 •matplotlib / seaborn → Data visualization
 
+
 Key Steps in Analysis
 
 •Data Cleaning
 •Checking and handling missing values
 •Removing duplicates
+
 
 Correcting column names & data types
 
@@ -28,6 +33,7 @@ Correcting column names & data types
 •Summary statistics
 •Price distribution
 •Room type & location-based analysis
+
 
 Visualization
 
